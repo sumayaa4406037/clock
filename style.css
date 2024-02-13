@@ -1,0 +1,18 @@
+
+body{
+    background: #030303;
+}
+.container{
+    color: #C5C3D8 ;
+    font-size: 100px;
+    font-weight: 600;
+    background-color: #494a48;
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.6);
+    padding: 10px 20px;
+    transform: translate(100%,130%);
+    text-align: center;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-shadow: 0px 0px 30px #ed350c ;
+}
